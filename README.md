@@ -1,5 +1,7 @@
 # scrape
 Python Scrapy website scraping
+https://docs.scrapy.org/en/latest/intro/tutorial.html
+
 ## Purposebridge Limited
 Purposebridge Limited, Tangmere, West Sussex, PO20 2GZ
 email: james@purposebridge.uk
